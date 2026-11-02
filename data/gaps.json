@@ -1,0 +1,13 @@
+{
+ "generated": "2026-11-01 19:50 ET",
+ "status": "no_premarket_session",
+ "universe": "Finviz US stocks, price \u2265 $5, avg vol \u2265 500k",
+ "scanned": 2167,
+ "min_gap": 4.0,
+ "fresh_premarket_quotes": 0,
+ "gap_ups": [],
+ "gap_downs": [],
+ "notes": [],
+ "seconds": 2,
+ "source": "Yahoo Finance quote API (pre-market price/volume), Yahoo 1m extended-hours chart (PM high/low), Yahoo news"
+}
