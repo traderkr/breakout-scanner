@@ -1,77 +1,140 @@
 scan,ticker,name,sector,price,chg_pct,chg_usd,gap_pct,vol,vol_mult,close_pos,entry,stop,risk_pct,stop_basis,earnings,why
-ep,DTIL,Precision Biosciences Inc,Healthcare,9.87,21.6,1.75,4.6,2910648,12.1,51,11.3,8.4,25.6,EP-day low,,"up 21.6% on the day, 12.1× avg volume"
-ep,AEHL,Antelope Enterprise Holdings Ltd,Industrials,17.44,178.1,11.17,101.0,24456535,10.7,79,19.4,10.01,48.4,EP-day low,,"gap +101.0%, 10.7× avg volume"
-ep,ARDT,Ardent Health Inc,Healthcare,15.9,22.4,2.91,12.8,2469236,5.4,84,16.24,14.21,12.4,EP-day low,earnings 2026-11-04 after close,"gap +12.8%, 5.4× avg volume, from a 31% 3-mo base"
-ep,PTLO,Portillos Inc,Consumer Cyclical,7.02,28.8,1.57,10.8,9213904,5.3,100,7.03,5.92,15.7,EP-day low,earnings 2026-11-05 pre-market,"gap +10.8%, 5.3× avg volume"
-ep,U,Unity Software Inc,Technology,48.8,14.9,6.34,13.2,49952808,5.0,85,49.5,44.82,9.4,EP-day low,earnings 2026-11-05 pre-market,"gap +13.2%, 5.0× avg volume, from a 31% 3-mo base, neglected (down over prior 3 mo)"
-ep,ADMA,Adma Biologics Inc,Healthcare,13.21,26.0,2.73,14.6,14969105,4.9,70,13.78,11.9,13.6,EP-day low,earnings 2026-11-04 after close,"gap +14.6%, 4.9× avg volume"
-ep,XERS,Xeris Biopharma Holdings Inc,Healthcare,13.08,25.0,2.62,19.6,12296693,4.8,54,13.75,12.32,10.3,EP-day low,earnings 2026-11-05 pre-market,"gap +19.6%, 4.8× avg volume"
-ep,VCEL,Vericel Corp,Healthcare,51.78,13.9,6.3,11.1,2677347,4.8,42,55.61,49.0,11.9,EP-day low,earnings 2026-11-05 pre-market,"gap +11.1%, 4.8× avg volume, from a 24% 3-mo base"
-ep,APP,Applovin Corp,Communication Services,356.1,31.0,84.35,28.7,22033083,4.6,65,365.34,338.88,7.2,EP-day low,earnings 2026-11-04 after close,"gap +28.7%, 4.6× avg volume, neglected (down over prior 3 mo)"
-ep,MGNI,Magnite Inc,Communication Services,27.52,20.8,4.73,13.0,9692142,4.5,73,28.18,25.75,8.6,EP-day low,earnings 2026-11-04 after close,"gap +13.0%, 4.5× avg volume, from a 29% 3-mo base, neglected (down over prior 3 mo)"
-ep,RUN,Sunrun Inc,Technology,9.87,12.3,1.08,19.3,35110050,4.1,52,10.64,9.05,14.9,EP-day low,earnings 2026-11-04 after close,"gap +19.3%, 4.1× avg volume, neglected (down over prior 3 mo)"
-ep,NVRI,Enviri Corp,Industrials,23.36,13.9,2.85,7.3,1173882,3.6,100,23.38,21.02,10.1,EP-day low,earnings 2026-11-05 pre-market,"up 13.9% on the day, 3.6× avg volume, from a 32% 3-mo base, neglected (down over prior 3 mo)"
-ep,WRBY,Warby Parker Inc,Healthcare,26.08,22.5,4.79,21.8,11200220,3.6,48,27.44,24.85,9.4,EP-day low,earnings 2026-11-05 pre-market,"gap +21.8%, 3.6× avg volume, neglected (down over prior 3 mo)"
-ep,EPAM,EPAM Systems Inc,Technology,165.7,20.6,28.34,13.7,3671830,3.3,80,168.57,154.1,8.6,EP-day low,earnings 2026-11-05 pre-market,"gap +13.7%, 3.3× avg volume"
-ep,FUN,Six Flags Entertainment Corp,Consumer Cyclical,9.24,16.5,1.31,17.3,12373535,3.1,56,9.86,8.46,14.1,EP-day low,earnings 2026-11-05 pre-market,"gap +17.3%, 3.1× avg volume, neglected (down over prior 3 mo)"
-ep,ENOV,Enovis Corp,Healthcare,28.62,17.2,4.2,16.4,5319192,3.0,58,29.9,26.89,10.1,EP-day low,earnings 2026-11-05 pre-market,"gap +16.4%, 3.0× avg volume, neglected (down over prior 3 mo)"
-epe,APP,Applovin Corp,Communication Services,356.1,31.0,84.35,28.7,22033083,4.6,65,365.34,338.88,7.2,EP-day low,earnings 2026-11-04 after close,"gap +28.7%, 4.6× avg volume, neglected (down over prior 3 mo), earnings 2026-11-04 after close, closed at 65% of range"
-epe,WRBY,Warby Parker Inc,Healthcare,26.08,22.5,4.79,21.8,11200220,3.6,48,27.44,24.85,9.4,EP-day low,earnings 2026-11-05 pre-market,"gap +21.8%, 3.6× avg volume, neglected (down over prior 3 mo), earnings 2026-11-05 pre-market, closed at 48% of range"
-epe,XERS,Xeris Biopharma Holdings Inc,Healthcare,13.08,25.0,2.62,19.6,12296693,4.8,54,13.75,12.32,10.3,EP-day low,earnings 2026-11-05 pre-market,"gap +19.6%, 4.8× avg volume, earnings 2026-11-05 pre-market, closed at 54% of range"
-epe,RUN,Sunrun Inc,Technology,9.87,12.3,1.08,19.3,35110050,4.1,52,10.64,9.05,14.9,EP-day low,earnings 2026-11-04 after close,"gap +19.3%, 4.1× avg volume, neglected (down over prior 3 mo), earnings 2026-11-04 after close, closed at 52% of range"
-epe,FUN,Six Flags Entertainment Corp,Consumer Cyclical,9.24,16.5,1.31,17.3,12373535,3.1,56,9.86,8.46,14.1,EP-day low,earnings 2026-11-05 pre-market,"gap +17.3%, 3.1× avg volume, neglected (down over prior 3 mo), earnings 2026-11-05 pre-market, closed at 56% of range"
-epe,ENOV,Enovis Corp,Healthcare,28.62,17.2,4.2,16.4,5319192,3.0,58,29.9,26.89,10.1,EP-day low,earnings 2026-11-05 pre-market,"gap +16.4%, 3.0× avg volume, neglected (down over prior 3 mo), earnings 2026-11-05 pre-market, closed at 58% of range"
-epe,ADMA,Adma Biologics Inc,Healthcare,13.21,26.0,2.73,14.6,14969105,4.9,70,13.78,11.9,13.6,EP-day low,earnings 2026-11-04 after close,"gap +14.6%, 4.9× avg volume, earnings 2026-11-04 after close, closed at 70% of range"
-epe,EPAM,EPAM Systems Inc,Technology,165.7,20.6,28.34,13.7,3671830,3.3,80,168.57,154.1,8.6,EP-day low,earnings 2026-11-05 pre-market,"gap +13.7%, 3.3× avg volume, earnings 2026-11-05 pre-market, closed at 80% of range"
-epe,U,Unity Software Inc,Technology,48.8,14.9,6.34,13.2,49952808,5.0,85,49.5,44.82,9.4,EP-day low,earnings 2026-11-05 pre-market,"gap +13.2%, 5.0× avg volume, from a 31% 3-mo base, neglected (down over prior 3 mo), earnings 2026-11-05 pre-market, closed at 85% of range"
-epe,MGNI,Magnite Inc,Communication Services,27.52,20.8,4.73,13.0,9692142,4.5,73,28.18,25.75,8.6,EP-day low,earnings 2026-11-04 after close,"gap +13.0%, 4.5× avg volume, from a 29% 3-mo base, neglected (down over prior 3 mo), earnings 2026-11-04 after close, closed at 73% of range"
-epe,ARDT,Ardent Health Inc,Healthcare,15.9,22.4,2.91,12.8,2469236,5.4,84,16.24,14.21,12.4,EP-day low,earnings 2026-11-04 after close,"gap +12.8%, 5.4× avg volume, from a 31% 3-mo base, earnings 2026-11-04 after close, closed at 84% of range"
-epe,VCEL,Vericel Corp,Healthcare,51.78,13.9,6.3,11.1,2677347,4.8,42,55.61,49.0,11.9,EP-day low,earnings 2026-11-05 pre-market,"gap +11.1%, 4.8× avg volume, from a 24% 3-mo base, earnings 2026-11-05 pre-market, closed at 42% of range"
-epe,PTLO,Portillos Inc,Consumer Cyclical,7.02,28.8,1.57,10.8,9213904,5.3,100,7.03,5.92,15.7,EP-day low,earnings 2026-11-05 pre-market,"gap +10.8%, 5.3× avg volume, earnings 2026-11-05 pre-market, closed at 100% of range"
-epe,NVRI,Enviri Corp,Industrials,23.36,13.9,2.85,7.3,1173882,3.6,100,23.38,21.02,10.1,EP-day low,earnings 2026-11-05 pre-market,"up 13.9% on the day, 3.6× avg volume, from a 32% 3-mo base, neglected (down over prior 3 mo), earnings 2026-11-05 pre-market, closed at 100% of range"
-mb,AEHL,Antelope Enterprise Holdings Ltd,Industrials,17.44,178.1,11.17,101.0,24456535,10.7,79,19.4,10.01,48.4,day low,,+178.1% on vol > yesterday after ranges contracting
-mb,ECPG,Encore Capital Group Inc,Financial,126.17,26.3,26.24,10.0,707370,2.5,97,126.75,109.54,13.6,day low,earnings 2026-11-04 after close,+26.3% on vol > yesterday after quiet 3 days
-mb,FUN,Six Flags Entertainment Corp,Consumer Cyclical,9.24,16.5,1.31,17.3,12373535,3.1,56,9.86,8.46,14.1,day low,earnings 2026-11-05 pre-market,+16.5% on vol > yesterday after ranges contracting
-mb,APPN,Appian Corp,Technology,54.03,8.5,4.21,9.6,2007110,2.1,54,56.39,51.27,9.1,day low,,+8.5% on vol > yesterday after quiet 3 days
-mb,GLIBK,Liberty Capital Corp,Communication Services,24.78,6.5,1.51,1.4,436514,1.2,71,25.56,22.85,10.6,day low,,+6.5% on vol > yesterday after quiet 3 days
-mb,XPER,Xperi Inc,Technology,5.71,6.5,0.35,1.3,1151622,2.7,74,5.89,5.22,11.2,day low,,+6.5% on vol > yesterday after quiet 3 days
-mb,ASIX,AdvanSix Inc,Basic Materials,16.24,4.6,0.72,1.2,465859,1.8,94,16.29,15.56,4.4,day low,,+4.6% on vol > yesterday after quiet 3 days
-mb,COKE,Coca-Cola Consolidated Inc,Consumer Defensive,212.5,4.1,8.32,1.1,856905,1.6,61,220.0,200.96,8.7,day low,,+4.1% on vol > yesterday after quiet 3 days
-vb,AEHL,Antelope Enterprise Holdings Ltd,Industrials,17.44,178.1,11.17,101.0,24456535,10.7,79,19.4,10.01,48.4,day low,,"10.7× avg volume, closed at 79% of range"
-vb,JAN,Janus Living Inc,Real Estate,30.75,2.3,0.68,-2.9,18627208,10.1,98,30.8,28.86,6.3,day low,,"10.1× avg volume, highest volume in a year, closed at 98% of range"
-vb,ARDT,Ardent Health Inc,Healthcare,15.9,22.4,2.91,12.8,2469236,5.4,84,16.24,14.21,12.4,day low,earnings 2026-11-04 after close,"5.4× avg volume, closed at 84% of range"
-vb,PTLO,Portillos Inc,Consumer Cyclical,7.02,28.8,1.57,10.8,9213904,5.3,100,7.03,5.92,15.7,day low,earnings 2026-11-05 pre-market,"5.3× avg volume, highest volume in a year, closed at 100% of range"
-vb,U,Unity Software Inc,Technology,48.8,14.9,6.34,13.2,49952808,5.0,85,49.5,44.82,9.4,day low,earnings 2026-11-05 pre-market,"5.0× avg volume, closed at 85% of range"
-vb,ADMA,Adma Biologics Inc,Healthcare,13.21,26.0,2.73,14.6,14969105,4.9,70,13.78,11.9,13.6,day low,earnings 2026-11-04 after close,"4.9× avg volume, closed at 70% of range"
-vb,MGNI,Magnite Inc,Communication Services,27.52,20.8,4.73,13.0,9692142,4.5,73,28.18,25.75,8.6,day low,earnings 2026-11-04 after close,"4.5× avg volume, closed at 73% of range"
-vb,ASPN,Aspen Aerogels Inc,Basic Materials,5.16,7.5,0.36,2.5,3836992,4.4,85,5.28,4.53,14.0,day low,,"4.4× avg volume, closed at 85% of range"
-vb,EVC,Entravision Communications Corp,Communication Services,7.5,3.0,0.22,0.3,4452844,3.7,86,7.62,6.86,9.8,day low,,"3.7× avg volume, closed at 86% of range"
-vb,NVRI,Enviri Corp,Industrials,23.36,13.9,2.85,7.3,1173882,3.6,100,23.38,21.02,10.1,day low,earnings 2026-11-05 pre-market,"3.6× avg volume, closed at 100% of range"
-vb,AAUC,Allied Gold Corp,Basic Materials,21.79,6.8,1.38,2.2,1495134,3.5,93,21.88,20.66,5.5,day low,,"3.5× avg volume, closed at 93% of range"
-vb,IPAR,Interparfums Inc,Consumer Defensive,135.28,9.5,11.71,1.9,746509,3.5,95,135.8,125.96,7.2,day low,,"3.5× avg volume, closed at 95% of range"
-vb,IBN,ICICI Bank Ltd ADR,Financial,32.53,4.1,1.27,3.8,18180037,3.5,92,32.6,31.82,2.4,day low,,"3.5× avg volume, closed at 92% of range"
-vb,STFS,Star Fashion Culture Holdings Ltd,Communication Services,5.61,2.8,0.16,1.3,1691997,3.5,96,5.62,5.48,2.3,day low,,"3.5× avg volume, closed at 96% of range"
-vb,HAVA,Harvard Ave Acquisition Corp,Financial,10.29,0.1,0.01,0.0,201458,3.4,100,10.3,10.28,0.1,day low,,"3.4× avg volume, closed at 100% of range"
-vb,EPAM,EPAM Systems Inc,Technology,165.7,20.6,28.34,13.7,3671830,3.3,80,168.57,154.1,8.6,day low,earnings 2026-11-05 pre-market,"3.3× avg volume, closed at 80% of range"
-vb,COLD,Americold Realty Trust Inc,Real Estate,15.81,4.1,0.62,4.0,11240010,3.3,79,15.96,15.27,4.3,day low,earnings 2026-11-05 pre-market,"3.3× avg volume, closed at 79% of range"
-vb,LILAK,Liberty Latin America Ltd,Communication Services,8.91,3.5,0.3,-4.3,4592938,3.2,91,9.02,8.0,11.2,day low,,"3.2× avg volume, closed at 91% of range"
-vb,BOBS,Bob's Discount Furniture Inc,Consumer Cyclical,19.47,6.2,1.14,3.7,2532278,3.1,90,19.62,18.1,7.7,day low,,"3.1× avg volume, closed at 90% of range"
-vb,CARS,Cars.com,Communication Services,13.56,6.4,0.81,5.1,2204632,3.1,93,13.63,12.75,6.4,day low,earnings 2026-11-05 pre-market,"3.1× avg volume, closed at 93% of range"
-vb,LUXE,LuxExperience B.V ADR,Consumer Cyclical,10.06,0.1,0.01,-0.5,708112,3.0,71,10.23,9.67,5.4,day low,,"3.0× avg volume, closed at 71% of range"
-ant,ULBI,Ultralife Corp,Industrials,15.63,0.1,0.01,-0.1,242421,1.8,50,15.7,15.6,0.6,3-day low,,"inside day, 3-day range 0.6%, 3 closes > 20D MA, -0.4% from 52w high"
-ant,PERI,Perion Network Ltd,Communication Services,11.41,-0.3,-0.04,-0.3,1242603,2.1,0,11.47,11.39,0.7,3-day low,,"NR7, inside day, 3-day range 0.6%, 3 closes > 20D MA, -0.4% from 52w high"
-ant,BMBL,Bumble Inc,Communication Services,5.98,-0.3,-0.02,-0.2,2889116,0.4,0,6.01,5.96,0.8,3-day low,,"inside day, 3-day range 0.7%, 3 closes > 20D MA, -0.3% from 52w high"
-ant,ADT,ADT Inc,Industrials,9.9,0.0,0.0,0.0,23681211,1.8,80,9.93,9.84,0.9,3-day low,,"inside day, 3-day range 0.8%, 3 closes > 20D MA, -1.0% from 52w high"
-db,APP,Applovin Corp,Communication Services,356.1,31.0,84.35,28.7,22033083,4.6,65,365.34,338.88,7.2,day low,earnings 2026-11-04 after close,+$84.35 on 4.6× avg volume
-db,EPAM,EPAM Systems Inc,Technology,165.7,20.6,28.34,13.7,3671830,3.3,80,168.57,154.1,8.6,day low,earnings 2026-11-05 pre-market,+$28.34 on 3.3× avg volume
-db,ECPG,Encore Capital Group Inc,Financial,126.17,26.3,26.24,10.0,707370,2.5,97,126.75,109.54,13.6,day low,earnings 2026-11-04 after close,+$26.24 on 2.5× avg volume
-db,CACC,Credit Acceptance Corp,Financial,522.58,4.8,23.9,3.7,178161,1.5,88,524.57,508.04,3.1,day low,,+$23.90 on 1.5× avg volume
-db,RGLD,Royal Gold Inc,Basic Materials,261.28,6.2,15.2,4.6,1066165,1.7,80,264.51,248.24,6.1,day low,earnings 2026-11-04 after close,+$15.20 on 1.7× avg volume
-db,VRSK,Verisk Analytics Inc,Industrials,211.47,6.9,13.62,-1.9,2502000,2.1,78,216.43,193.81,10.4,day low,,+$13.62 on 2.1× avg volume
-db,MUSA,Murphy USA Inc,Consumer Cyclical,514.53,2.4,12.11,0.3,406523,1.5,61,521.67,503.19,3.5,day low,,+$12.11 on 1.5× avg volume
-db,IPAR,Interparfums Inc,Consumer Defensive,135.28,9.5,11.71,1.9,746509,3.5,95,135.8,125.96,7.2,day low,,+$11.71 on 3.5× avg volume
-db,PLMR,Palomar Holdings Inc,Financial,155.67,8.1,11.63,4.1,714617,3.0,64,162.08,144.46,10.9,day low,earnings 2026-11-04 after close,+$11.63 on 3.0× avg volume
-db,AEHL,Antelope Enterprise Holdings Ltd,Industrials,17.44,178.1,11.17,101.0,24456535,10.7,79,19.4,10.01,48.4,day low,,+$11.17 on 10.7× avg volume
-db,FWONA,Liberty Media Corp,Communication Services,99.72,9.5,8.69,7.7,841687,4.2,63,101.14,97.3,3.8,day low,,+$8.69 on 4.2× avg volume
-db,FNV,Franco-Nevada Corp,Basic Materials,250.69,3.5,8.55,2.5,1084340,1.6,80,252.77,242.53,4.0,day low,,+$8.55 on 1.6× avg volume
-db,COKE,Coca-Cola Consolidated Inc,Consumer Defensive,212.5,4.1,8.32,1.1,856905,1.6,61,220.0,200.96,8.7,day low,,+$8.32 on 1.6× avg volume
+ep,CLAR,Clarus Corp,Consumer Cyclical,5.02,18.1,0.77,7.3,1168250,7.2,75,5.19,4.54,12.4,EP-day low,earnings 2026-11-05 after close,"up 18.1% on the day, 7.2× avg volume"
+ep,TMDX,Transmedics Group Inc,Healthcare,88.24,27.9,19.26,14.7,3949522,4.7,98,88.44,76.5,13.5,EP-day low,earnings 2026-11-05 after close,"gap +14.7%, 4.7× avg volume, neglected (down over prior 3 mo)"
+ep,FLY,Firefly Aerospace Inc,Industrials,20.76,36.8,5.59,12.7,13299970,4.4,97,20.89,16.31,21.9,EP-day low,,"gap +12.7%, 4.4× avg volume, neglected (down over prior 3 mo)"
+ep,OBX,Obsidian Therapeutics Inc,Healthcare,13.86,44.4,4.26,8.4,2089772,4.2,81,14.78,9.9,33.0,EP-day low,,"up 44.4% on the day, 4.2× avg volume, neglected (down over prior 3 mo)"
+ep,LION,Lionsgate Studios Corp,Communication Services,14.24,13.4,1.68,1.5,12763820,4.1,96,14.32,12.49,12.7,EP-day low,earnings 2026-11-05 after close,"up 13.4% on the day, 4.1× avg volume, from a 26% 3-mo base"
+ep,CGON,Cg Oncology Inc,Healthcare,75.99,17.3,11.19,2.6,3661704,4.0,70,80.01,66.46,16.9,EP-day low,earnings 2026-11-06 pre-market,"up 17.3% on the day, 4.0× avg volume, neglected (down over prior 3 mo)"
+ep,MNTN,MNTN Inc,Technology,5.33,13.4,0.63,0.4,3595407,3.8,100,5.34,4.6,13.7,EP-day low,,"up 13.4% on the day, 3.8× avg volume, neglected (down over prior 3 mo)"
+ep,FROG,JFrog Ltd,Technology,100.98,35.3,26.36,27.3,7027191,3.7,91,102.2,89.32,12.6,EP-day low,earnings 2026-11-05 after close,"gap +27.3%, 3.7× avg volume, neglected (down over prior 3 mo)"
+ep,FLGT,Fulgent Genetics Inc,Healthcare,23.74,27.2,5.08,9.7,1097340,3.6,97,23.86,19.64,17.7,EP-day low,earnings 2026-11-05 after close,"up 27.2% on the day, 3.6× avg volume, from a 25% 3-mo base, neglected (down over prior 3 mo)"
+ep,EXTR,Extreme Networks Inc,Technology,24.03,14.2,2.98,14.2,4887787,3.3,19,26.29,23.5,10.6,EP-day low,,"gap +14.2%, 3.3× avg volume, from a 30% 3-mo base, neglected (down over prior 3 mo)"
+ep,IBEX,IBEX Ltd,Technology,49.52,15.2,6.52,4.3,407170,3.3,96,49.9,41.5,16.8,EP-day low,earnings 2026-11-05 after close,"up 15.2% on the day, 3.3× avg volume"
+ep,MBLY,Mobileye Global Inc,Consumer Cyclical,5.73,11.7,0.6,2.1,19876526,3.2,96,5.76,5.19,9.7,EP-day low,,"up 11.7% on the day, 3.2× avg volume, neglected (down over prior 3 mo)"
+epe,FROG,JFrog Ltd,Technology,100.98,35.3,26.36,27.3,7027191,3.7,91,102.2,89.32,12.6,EP-day low,earnings 2026-11-05 after close,"gap +27.3%, 3.7× avg volume, neglected (down over prior 3 mo), earnings 2026-11-05 after close, closed at 91% of range"
+epe,TMDX,Transmedics Group Inc,Healthcare,88.24,27.9,19.26,14.7,3949522,4.7,98,88.44,76.5,13.5,EP-day low,earnings 2026-11-05 after close,"gap +14.7%, 4.7× avg volume, neglected (down over prior 3 mo), earnings 2026-11-05 after close, closed at 98% of range"
+epe,FLGT,Fulgent Genetics Inc,Healthcare,23.74,27.2,5.08,9.7,1097340,3.6,97,23.86,19.64,17.7,EP-day low,earnings 2026-11-05 after close,"up 27.2% on the day, 3.6× avg volume, from a 25% 3-mo base, neglected (down over prior 3 mo), earnings 2026-11-05 after close, closed at 97% of range"
+epe,CLAR,Clarus Corp,Consumer Cyclical,5.02,18.1,0.77,7.3,1168250,7.2,75,5.19,4.54,12.4,EP-day low,earnings 2026-11-05 after close,"up 18.1% on the day, 7.2× avg volume, earnings 2026-11-05 after close, closed at 75% of range"
+epe,IBEX,IBEX Ltd,Technology,49.52,15.2,6.52,4.3,407170,3.3,96,49.9,41.5,16.8,EP-day low,earnings 2026-11-05 after close,"up 15.2% on the day, 3.3× avg volume, earnings 2026-11-05 after close, closed at 96% of range"
+epe,CGON,Cg Oncology Inc,Healthcare,75.99,17.3,11.19,2.6,3661704,4.0,70,80.01,66.46,16.9,EP-day low,earnings 2026-11-06 pre-market,"up 17.3% on the day, 4.0× avg volume, neglected (down over prior 3 mo), earnings 2026-11-06 pre-market, closed at 70% of range"
+epe,LION,Lionsgate Studios Corp,Communication Services,14.24,13.4,1.68,1.5,12763820,4.1,96,14.32,12.49,12.7,EP-day low,earnings 2026-11-05 after close,"up 13.4% on the day, 4.1× avg volume, from a 26% 3-mo base, earnings 2026-11-05 after close, closed at 96% of range"
+mb,OBX,Obsidian Therapeutics Inc,Healthcare,13.86,44.4,4.26,8.4,2089772,4.2,81,14.78,9.9,33.0,day low,,+44.4% on vol > yesterday after NR7 yesterday
+mb,PPTA,Perpetua Resources Corp,Basic Materials,19.53,16.6,2.78,0.9,3119417,2.7,93,19.74,16.68,15.5,day low,,+16.6% on vol > yesterday after quiet 3 days
+mb,DNA,Ginkgo Bioworks Holdings Inc,Healthcare,11.29,13.4,1.33,2.0,3033436,1.2,59,12.21,9.99,18.1,day low,,+13.4% on vol > yesterday after ranges contracting
+mb,TOP,TOP Financial Group Limited,Financial,13.25,12.0,1.42,9.8,139423,1.0,84,13.65,11.17,18.1,day low,,+12.0% on vol > yesterday after ranges contracting
+mb,AVBP,ArriVent BioPharma Inc,Healthcare,13.64,11.5,1.41,1.4,1400448,0.9,87,13.88,12.0,13.5,day low,,+11.5% on vol > yesterday after ranges contracting
+mb,FTH,Faeth Therapeutics Inc,Healthcare,22.05,10.7,2.13,1.2,522842,1.4,100,22.06,19.89,9.8,day low,,+10.7% on vol > yesterday after quiet 3 days & ranges contracting
+mb,CLRO,ClearOne Inc,Technology,5.01,10.4,0.47,2.2,1657136,0.4,57,5.38,4.54,15.5,day low,,+10.4% on vol > yesterday after ranges contracting
+mb,SVRN,SVRN Inc,Financial,14.26,9.3,1.21,5.1,131754,0.8,60,15.01,13.17,12.2,day low,,+9.3% on vol > yesterday after ranges contracting
+mb,SARO,StandardAero Inc,Industrials,27.63,9.2,2.33,7.6,6848275,1.8,99,27.67,25.56,7.6,day low,,+9.2% on vol > yesterday after quiet 3 days
+mb,LU,Lufax Holding Ltd ADR,Financial,9.34,8.2,0.71,-0.7,452933,2.3,75,9.61,8.57,10.7,day low,,+8.2% on vol > yesterday after NR7 yesterday & ranges contracting
+mb,STGW,Stagwell Inc,Communication Services,11.64,7.5,0.81,0.0,3235208,2.0,97,11.67,10.68,8.4,day low,,+7.5% on vol > yesterday after quiet 3 days
+mb,EROK,EagleRock Land LLC,Energy,19.78,6.6,1.22,1.0,374344,1.6,73,20.18,18.72,7.2,day low,,+6.6% on vol > yesterday after NR7 yesterday
+mb,ANL,Adlai Nortye Group Ltd ADR,Healthcare,10.28,6.2,0.6,0.9,531007,2.2,70,10.65,9.43,11.4,day low,,+6.2% on vol > yesterday after quiet 3 days & ranges contracting
+mb,HUM,Humana Inc,Healthcare,433.74,5.3,21.95,0.8,2576048,2.0,68,444.01,411.55,7.3,day low,,+5.3% on vol > yesterday after quiet 3 days
+mb,INSM,Insmed Inc,Healthcare,114.4,5.2,5.64,-0.2,3378881,1.1,97,114.66,107.29,6.4,day low,,+5.2% on vol > yesterday after NR7 yesterday
+mb,VTRS,Viatris Inc,Healthcare,19.91,5.0,0.94,-0.9,14437429,1.7,97,19.95,18.8,5.7,day low,,+5.0% on vol > yesterday after quiet 3 days
+mb,BIPC,Brookfield Infrastructure Corp,Utilities,39.66,4.6,1.74,0.3,2838675,2.3,93,39.83,37.38,6.1,day low,,+4.6% on vol > yesterday after quiet 3 days
+mb,BIP,Brookfield Infrastructure Partners L.P,Utilities,39.45,4.3,1.64,0.3,2601378,3.1,88,39.75,37.26,6.2,day low,,+4.3% on vol > yesterday after quiet 3 days
+vb,CLAR,Clarus Corp,Consumer Cyclical,5.02,18.1,0.77,7.3,1168250,7.2,75,5.19,4.54,12.4,day low,earnings 2026-11-05 after close,"7.2× avg volume, closed at 75% of range"
+vb,ARDT,Ardent Health Inc,Healthcare,17.3,8.8,1.4,-0.4,3465542,7.0,82,17.68,15.58,11.9,day low,,"7.0× avg volume, closed at 82% of range"
+vb,RYTM,Rhythm Pharmaceuticals Inc,Healthcare,112.28,6.9,7.26,2.0,4935300,4.8,89,113.3,104.31,7.9,day low,,"4.8× avg volume, closed at 89% of range"
+vb,TMDX,Transmedics Group Inc,Healthcare,88.24,27.9,19.26,14.7,3949522,4.7,98,88.44,76.5,13.5,day low,earnings 2026-11-05 after close,"4.7× avg volume, closed at 98% of range"
+vb,FLY,Firefly Aerospace Inc,Industrials,20.76,36.8,5.59,12.7,13299970,4.4,97,20.89,16.31,21.9,day low,,"4.4× avg volume, closed at 97% of range"
+vb,DTIL,Precision Biosciences Inc,Healthcare,10.6,7.4,0.73,-0.7,1228661,4.2,89,10.79,9.07,15.9,day low,,"4.2× avg volume, closed at 89% of range"
+vb,OBX,Obsidian Therapeutics Inc,Healthcare,13.86,44.4,4.26,8.4,2089772,4.2,81,14.78,9.9,33.0,day low,,"4.2× avg volume, closed at 81% of range"
+vb,LION,Lionsgate Studios Corp,Communication Services,14.24,13.4,1.68,1.5,12763820,4.1,96,14.32,12.49,12.7,day low,earnings 2026-11-05 after close,"4.1× avg volume, closed at 96% of range"
+vb,CGON,Cg Oncology Inc,Healthcare,75.99,17.3,11.19,2.6,3661704,4.0,70,80.01,66.46,16.9,day low,earnings 2026-11-06 pre-market,"4.0× avg volume, closed at 70% of range"
+vb,MNTN,MNTN Inc,Technology,5.33,13.4,0.63,0.4,3595407,3.8,100,5.34,4.6,13.7,day low,,"3.8× avg volume, closed at 100% of range"
+vb,FROG,JFrog Ltd,Technology,100.98,35.3,26.36,27.3,7027191,3.7,91,102.2,89.32,12.6,day low,earnings 2026-11-05 after close,"3.7× avg volume, closed at 91% of range"
+vb,FLGT,Fulgent Genetics Inc,Healthcare,23.74,27.2,5.08,9.7,1097340,3.6,97,23.86,19.64,17.7,day low,earnings 2026-11-05 after close,"3.6× avg volume, closed at 97% of range"
+vb,JAN,Janus Living Inc,Real Estate,31.99,4.0,1.24,-0.1,7931194,3.6,79,32.42,30.45,6.0,day low,,"3.6× avg volume, closed at 79% of range"
+vb,NHC,National Healthcare Corp,Healthcare,208.85,0.6,1.23,-2.2,432228,3.5,97,209.13,201.16,3.8,day low,,"3.5× avg volume, closed at 97% of range"
+vb,IMCR,Immunocore Holdings plc ADR,Healthcare,30.99,9.1,2.59,5.5,1526332,3.4,86,31.29,29.15,6.8,day low,earnings 2026-11-06 pre-market,"3.4× avg volume, closed at 86% of range"
+vb,ROCK,Gibraltar Industries Inc,Industrials,32.47,2.5,0.78,1.0,1397300,3.4,94,32.7,29.3,10.4,day low,,"3.4× avg volume, closed at 94% of range"
+vb,LGN,Legence Corp,Industrials,27.91,9.8,2.5,4.7,4194526,3.3,71,28.63,26.15,8.6,day low,,"3.3× avg volume, closed at 71% of range"
+vb,IBEX,IBEX Ltd,Technology,49.52,15.2,6.52,4.3,407170,3.3,96,49.9,41.5,16.8,day low,earnings 2026-11-05 after close,"3.3× avg volume, highest volume in a year, closed at 96% of range"
+vb,MBLY,Mobileye Global Inc,Consumer Cyclical,5.73,11.7,0.6,2.1,19876526,3.2,96,5.76,5.19,9.7,day low,,"3.2× avg volume, closed at 96% of range"
+vb,VNT,Vontier Corp,Technology,42.23,5.8,2.33,-0.6,4229799,3.2,100,42.24,39.17,7.2,day low,,"3.2× avg volume, closed at 100% of range"
+vb,NATR,Nature's Sunshine Products Inc,Consumer Defensive,10.87,5.9,0.61,-1.1,485015,3.1,94,10.93,10.1,7.5,day low,,"3.1× avg volume, closed at 94% of range"
+vb,PAR,Par Technology Corp,Technology,20.55,7.1,1.37,2.8,2780910,3.1,77,21.05,18.9,10.2,day low,,"3.1× avg volume, closed at 77% of range"
+vb,BIP,Brookfield Infrastructure Partners L.P,Utilities,39.45,4.3,1.64,0.3,2601378,3.1,88,39.75,37.26,6.2,day low,,"3.1× avg volume, closed at 88% of range"
+vb,ARHS,Arhaus Inc,Consumer Cyclical,14.19,9.7,1.25,0.5,4932372,3.0,94,14.28,12.83,10.1,day low,,"3.0× avg volume, highest volume in a year, closed at 94% of range"
+vb,BAM,Brookfield Asset Management Ltd,Financial,52.95,0.9,0.49,-2.2,7471506,2.6,93,53.13,50.78,4.4,day low,,"2.6× avg volume, highest volume in a year, closed at 93% of range"
+vb,ESAB,ESAB Corp,Industrials,82.83,4.7,3.71,0.2,2554165,2.4,79,83.88,79.03,5.8,day low,,"2.4× avg volume, highest volume in a year, closed at 79% of range"
+vb,WYNN,Wynn Resorts Ltd,Consumer Cyclical,83.11,4.8,3.79,-1.5,5045637,2.2,80,84.41,78.03,7.6,day low,,"2.2× avg volume, highest volume in a year, closed at 80% of range"
+ant,SGRY,Surgery Partners Inc,Healthcare,23.2,0.1,0.03,0.0,2824370,0.7,50,23.28,23.13,0.6,3-day low,,"NR4, inside day, 3-day range 0.6%, 3 closes > 20D MA, -0.7% from 52w high"
+ant,ADT,ADT Inc,Industrials,9.86,-0.4,-0.04,-0.3,14813988,1.1,0,9.93,9.86,0.7,3-day low,,"NR7, inside day, 3-day range 0.6%, 3 closes > 20D MA, -1.4% from 52w high"
+ant,PERI,Perion Network Ltd,Communication Services,11.39,-0.2,-0.02,0.0,1833416,3.0,0,11.47,11.39,0.7,3-day low,,"NR7, 3-day range 0.6%, 3 closes > 20D MA, -0.6% from 52w high"
+ant,BMBL,Bumble Inc,Communication Services,5.97,-0.2,-0.01,0.0,1460503,0.2,0,6.01,5.97,0.7,3-day low,,"NR4, 3-day range 0.5%, 3 closes > 20D MA, -0.5% from 52w high"
+ant,BRZE,Braze Inc,Technology,45.79,-0.0,-0.02,0.0,9142218,1.8,37,46.21,45.74,1.0,3-day low,,"NR4, 3-day range 1.0%, 3 closes > 20D MA, -0.9% from 52w high"
+ant,TW,Tradeweb Markets Inc,Financial,127.73,0.1,0.17,-1.2,1171171,0.8,87,128.98,125.52,2.7,3-day low,,"NR7, 3-day range 2.7%, 3 closes > 20D MA, -1.0% from 52w high"
+ant,BANF,Bancfirst Corp,Financial,115.2,0.1,0.08,-0.9,192223,1.3,61,117.81,113.8,3.4,3-day low,,"NR4, inside day, 3-day range 3.5%, 3 closes > 20D MA, -5.7% from 52w high"
+ant,ESQ,Esquire Financial Holdings Inc,Financial,129.15,1.8,2.24,-0.8,93596,0.5,85,130.01,125.38,3.6,3-day low,,"inside day, 3-day range 3.7%, 3 closes > 20D MA, -4.2% from 52w high"
+ant,CART,Maplebear Inc,Consumer Cyclical,58.12,0.6,0.33,0.0,3129081,0.6,79,59.77,57.63,3.6,3-day low,,"NR7, inside day, 3-day range 3.7%, 3 closes > 20D MA, -6.3% from 52w high"
+db,UI,Ubiquiti Inc,Technology,592.84,15.3,78.64,11.4,170117,1.4,70,606.76,560.89,7.6,day low,earnings 2026-11-06 pre-market,+$78.64 on 1.4× avg volume
+db,SITM,SiTime Corp,Technology,416.92,17.4,61.92,14.3,1644833,3.0,87,422.59,378.08,10.5,day low,,+$61.92 on 3.0× avg volume
+db,MPWR,Monolithic Power System Inc,Technology,1190.44,5.2,59.01,6.2,1201345,1.4,58,1217.25,1153.34,5.2,day low,,+$59.01 on 1.4× avg volume
+db,AMD,Advanced Micro Devices Inc,Technology,449.04,11.0,44.64,9.9,45607871,2.0,59,459.79,433.3,5.8,day low,,+$44.64 on 2.0× avg volume
+db,APP,Applovin Corp,Communication Services,391.22,9.9,35.12,-0.0,11569425,2.2,86,398.01,348.95,12.3,day low,,+$35.12 on 2.2× avg volume
+db,FN,Fabrinet,Technology,327.13,11.7,34.16,8.5,1995496,2.1,91,329.63,303.0,8.1,day low,,+$34.16 on 2.1× avg volume
+db,NVMI,Nova Ltd,Technology,313.18,11.7,32.88,9.1,463559,1.1,83,316.21,298.6,5.6,day low,earnings 2026-11-05 after close,+$32.88 on 1.1× avg volume
+db,ARGX,Argen X SE ADR,Healthcare,927.21,3.6,32.44,0.0,377990,1.0,93,929.89,892.63,4.0,day low,,+$32.44 on 1.0× avg volume
+db,CW,Curtiss-Wright Corp,Industrials,463.47,6.8,29.6,2.6,642830,1.5,85,468.9,433.87,7.5,day low,,+$29.60 on 1.5× avg volume
+db,LITE,Lumentum Holdings Inc,Technology,538.59,5.7,28.89,8.0,5380777,1.0,50,559.01,518.01,7.3,day low,,+$28.89 on 1.0× avg volume
+db,TDY,Teledyne Technologies Inc,Technology,618.6,4.5,26.88,1.4,554645,1.8,99,618.81,593.62,4.1,day low,,+$26.88 on 1.8× avg volume
+db,FROG,JFrog Ltd,Technology,100.98,35.3,26.36,27.3,7027191,3.7,91,102.2,89.32,12.6,day low,earnings 2026-11-05 after close,+$26.36 on 3.7× avg volume
+db,PH,Parker-Hannifin Corp,Industrials,917.79,2.9,25.5,1.8,919725,1.4,77,922.59,901.67,2.3,day low,,+$25.50 on 1.4× avg volume
+db,RHLD,Resolute Holdings Management Inc,Industrials,153.71,18.3,23.78,4.7,288022,2.3,78,159.37,133.62,16.2,day low,,+$23.78 on 2.3× avg volume
+db,COHR,Coherent Corp,Technology,192.81,13.6,23.05,11.7,16198854,2.2,83,195.68,179.05,8.5,day low,,+$23.05 on 2.2× avg volume
+db,TLN,Talen Energy Corp,Utilities,338.64,7.1,22.42,4.2,1265387,1.2,84,341.44,323.64,5.2,day low,,+$22.42 on 1.2× avg volume
+db,TSM,Taiwan Semiconductor Manufacturing ADR,Technology,375.44,6.3,22.34,7.8,23765177,2.1,59,380.73,367.95,3.4,day low,,+$22.34 on 2.1× avg volume
+db,HUM,Humana Inc,Healthcare,433.74,5.3,21.95,0.8,2576048,2.0,68,444.01,411.55,7.3,day low,,+$21.95 on 2.0× avg volume
+db,MTSI,MACOM Technology Solutions Holdings Inc,Technology,210.98,10.8,20.63,8.8,2854119,1.8,96,211.61,195.74,7.5,day low,,+$20.63 on 1.8× avg volume
+db,ABNB,Airbnb Inc,Consumer Cyclical,189.99,11.7,19.86,12.4,12197700,2.8,70,192.51,184.08,4.4,day low,earnings 2026-11-05 after close,+$19.86 on 2.8× avg volume
+db,ONC,BeOne Medicines Ltd ADR,Healthcare,406.96,5.1,19.71,3.0,935748,2.4,68,410.72,399.0,2.9,day low,,+$19.71 on 2.4× avg volume
+db,TMDX,Transmedics Group Inc,Healthcare,88.24,27.9,19.26,14.7,3949522,4.7,98,88.44,76.5,13.5,day low,earnings 2026-11-05 after close,+$19.26 on 4.7× avg volume
+db,PVLA,Palvella Therapeutics Inc,Healthcare,175.92,12.2,19.07,0.7,502011,2.1,97,176.61,156.54,11.4,day low,,+$19.07 on 2.1× avg volume
+db,FTAI,FTAI Aviation Ltd,Industrials,180.27,11.0,17.82,6.5,3209703,1.9,96,180.88,166.08,8.2,day low,,+$17.82 on 1.9× avg volume
+db,ONTO,Onto Innovation Inc,Technology,173.28,11.1,17.29,12.2,1274664,1.3,80,175.01,166.52,4.8,day low,,+$17.29 on 1.3× avg volume
+db,MYRG,MYR Group Inc,Industrials,262.91,6.6,16.32,2.8,474131,1.7,81,265.79,250.27,5.8,day low,,+$16.32 on 1.7× avg volume
+db,LEU,Centrus Energy Corp,Energy,104.6,17.5,15.57,6.6,1318617,1.6,84,106.87,93.0,13.0,day low,,+$15.57 on 1.6× avg volume
+db,MKSI,MKS Inc,Technology,192.27,8.7,15.45,10.7,2616026,1.9,67,196.26,184.22,6.1,day low,,+$15.45 on 1.9× avg volume
+db,MTZ,Mastec Inc,Industrials,174.1,9.5,15.16,3.4,3510326,2.2,88,175.69,162.0,7.8,day low,,+$15.16 on 2.2× avg volume
+db,MOG-A,Moog Inc,Industrials,323.56,4.9,15.03,3.3,290309,1.0,77,327.25,311.54,4.8,day low,,+$15.03 on 1.0× avg volume
+db,DY,Dycom Industries Inc,Industrials,207.52,7.6,14.73,5.3,715164,1.1,77,210.05,199.2,5.2,day low,,+$14.73 on 1.1× avg volume
+db,ETN,Eaton Corp Plc,Industrials,341.72,4.5,14.7,5.6,4523373,1.8,58,347.51,333.86,3.9,day low,,+$14.70 on 1.8× avg volume
+db,RVMD,Revolution Medicines Inc,Healthcare,192.28,8.2,14.63,4.1,4495800,2.1,80,195.03,181.27,7.1,day low,,+$14.63 on 2.1× avg volume
+db,KRMN,Karman Holdings Inc,Industrials,45.61,42.1,13.52,11.9,10162550,2.8,98,45.87,34.18,25.5,day low,earnings 2026-11-05 after close,+$13.52 on 2.8× avg volume
+db,IESC,IES Holdings Inc,Industrials,158.45,8.8,12.87,7.2,693506,1.9,66,162.76,150.01,7.8,day low,,+$12.87 on 1.9× avg volume
+db,BIO,Bio-Rad Laboratories Inc,Healthcare,381.57,3.4,12.57,-1.2,273157,1.1,84,384.63,365.16,5.1,day low,,+$12.57 on 1.1× avg volume
+db,AMG,Affiliated Managers Group Inc,Financial,362.96,3.5,12.42,0.6,572399,2.0,74,368.01,348.6,5.3,day low,,+$12.42 on 2.0× avg volume
+db,VST,Vistra Corp,Utilities,124.8,10.6,11.91,5.9,12501439,1.9,86,125.81,118.9,5.5,day low,,+$11.91 on 1.9× avg volume
+db,URI,United Rentals Inc,Industrials,1055.57,1.1,11.79,0.6,562452,1.1,69,1064.3,1036.44,2.6,day low,,+$11.79 on 1.1× avg volume
+db,VICR,Vicor Corp,Technology,146.88,8.7,11.78,8.4,1314304,1.3,79,149.04,138.57,7.0,day low,,+$11.78 on 1.3× avg volume
+db,SMTC,Semtech Corp,Technology,103.21,12.7,11.67,11.3,4033215,1.2,94,103.82,93.17,10.3,day low,,+$11.67 on 1.2× avg volume
+db,ANET,Arista Networks Inc,Technology,170.8,7.3,11.64,8.6,11975777,2.0,60,173.21,167.15,3.5,day low,,+$11.64 on 2.0× avg volume
+db,KEYS,Keysight Technologies Inc,Technology,272.13,4.4,11.52,6.3,2170996,1.8,57,277.35,265.16,4.4,day low,,+$11.52 on 1.8× avg volume
+db,AEIS,Advanced Energy Industries Inc,Industrials,197.01,6.1,11.35,7.7,971816,1.6,68,200.02,190.69,4.7,day low,,+$11.35 on 1.6× avg volume
+db,ALAB,Astera Labs Inc,Technology,190.71,6.3,11.24,8.9,6627414,1.5,71,195.22,179.81,7.9,day low,,+$11.24 on 1.5× avg volume
+db,CGON,Cg Oncology Inc,Healthcare,75.99,17.3,11.19,2.6,3661704,4.0,70,80.01,66.46,16.9,day low,earnings 2026-11-06 pre-market,+$11.19 on 4.0× avg volume
+db,HUBB,Hubbell Inc,Industrials,429.45,2.5,10.66,2.2,1028247,1.7,52,433.73,424.77,2.1,day low,,+$10.66 on 1.7× avg volume
+db,SPCX,Space Exploration Technologies Corp,Industrials,134.27,8.6,10.65,5.9,114507519,1.2,84,135.33,128.57,5.0,day low,,+$10.65 on 1.2× avg volume
+db,CEG,Constellation Energy Corp,Utilities,249.95,4.3,10.3,2.7,5562111,1.6,70,252.73,243.38,3.7,day low,,+$10.30 on 1.6× avg volume
+db,PLUS,ePlus Inc,Technology,92.11,11.7,9.68,4.0,443893,1.9,67,95.36,85.68,10.1,day low,earnings 2026-11-05 after close,+$9.68 on 1.9× avg volume
+db,RBC,RBC Bearings Inc,Industrials,474.45,2.1,9.66,1.4,336193,1.0,71,479.34,462.47,3.5,day low,,+$9.66 on 1.0× avg volume
+db,ITT,ITT Inc,Industrials,205.55,4.9,9.63,1.7,1391353,1.7,97,205.8,196.68,4.4,day low,,+$9.63 on 1.7× avg volume
+db,FORM,FormFactor Inc,Technology,81.12,13.0,9.36,12.9,1872680,1.1,90,81.56,77.13,5.4,day low,,+$9.36 on 1.1× avg volume
+db,TT,Trane Technologies plc,Industrials,401.76,2.4,9.33,2.6,1956768,1.5,61,405.5,395.87,2.4,day low,,+$9.33 on 1.5× avg volume
+db,ETON,Eton Pharmaceuticals Inc,Healthcare,56.46,19.7,9.31,24.3,1269647,2.5,69,58.6,51.82,11.6,day low,earnings 2026-11-05 after close,+$9.31 on 2.5× avg volume
+db,ACLS,Axcelis Technologies Inc,Technology,99.24,10.3,9.24,10.0,861550,2.4,67,100.63,96.44,4.2,day low,,+$9.24 on 2.4× avg volume
+db,DIOD,Diodes Inc,Technology,77.36,13.2,9.0,9.2,881451,1.6,94,77.84,70.11,9.9,day low,earnings 2026-11-05 after close,+$9.00 on 1.6× avg volume
+db,LASR,nLIGHT Inc,Technology,38.02,29.6,8.68,25.7,2638178,2.5,86,38.51,35.02,9.0,day low,earnings 2026-11-05 after close,+$8.68 on 2.5× avg volume
+db,QCOM,Qualcomm Inc,Technology,165.41,5.5,8.66,2.9,19671665,1.5,75,167.48,159.11,5.0,day low,,+$8.66 on 1.5× avg volume
+db,GE,GE Aerospace,Industrials,323.24,2.7,8.51,0.7,5301702,1.1,81,325.17,315.06,3.1,day low,,+$8.51 on 1.1× avg volume
+db,CRDO,Credo Technology Group Holding Ltd,Technology,120.51,7.3,8.18,11.0,9630210,1.1,52,125.81,114.73,8.8,day low,,+$8.18 on 1.1× avg volume
+db,CPAY,Corpay Inc,Technology,455.16,1.8,8.16,-2.1,1077901,2.2,89,458.65,427.97,6.7,day low,,+$8.16 on 2.2× avg volume
+db,VSEC,VSE Corp,Industrials,172.81,4.9,8.1,2.4,658204,1.4,74,176.27,162.82,7.6,day low,,+$8.10 on 1.4× avg volume
+db,POWL,Powell Industries Inc,Industrials,133.12,6.4,8.06,6.3,863583,1.3,80,134.34,128.23,4.5,day low,,+$8.06 on 1.3× avg volume
+db,TPC,Tutor Perini Corp,Industrials,89.89,9.8,8.04,3.6,1197782,2.6,100,89.9,83.03,7.6,day low,,+$8.04 on 2.6× avg volume
+db,MRCY,Mercury Systems Inc,Industrials,73.55,12.2,8.0,2.1,1012622,1.6,96,73.92,64.37,12.9,day low,,+$8.00 on 1.6× avg volume
